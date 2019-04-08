@@ -6,5 +6,6 @@ if index > 0 && index < 10
 else
   return false
 end
+end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
